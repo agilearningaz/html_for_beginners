@@ -29,3 +29,11 @@
   - 8-ci dərs - Formalar və onların elementləri
   - 9-cu dərs - Digər teqlər
   - 10-cu dərs - HTML faylın doğruluğu, validation
+
+## Müəllif
+**Sosial şəbəkə** | **Link**
+----- | -----
+LinkedIn | [<img src="https://image.flaticon.com/icons/svg/1409/1409945.svg" width="32">](https://www.linkedin.com/in/twkera/)
+Twitter | [<img src="https://image.flaticon.com/icons/svg/1409/1409937.svg" width="32">](https://www.twitter.com/twkera/)
+Facebook | [<img src="https://image.flaticon.com/icons/svg/1409/1409943.svg" width="32">](https://www.facebook.com/twkera/)
+Youtube | [<img src="https://image.flaticon.com/icons/svg/1409/1409936.svg" width="32">](http://www.youtube.com/channel/UCvPrmJLhCi6GYYbdVk-y5bA)
